@@ -1,0 +1,14 @@
+---
+title: "markdown File"
+author: "Juan Alonso"
+date: "7/1/2021"
+output:
+  word_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## This is a markdown file
+
